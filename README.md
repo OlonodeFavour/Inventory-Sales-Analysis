@@ -1,5 +1,10 @@
 # Inventory-Sales-Analysis
 
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Type](https://img.shields.io/badge/Project-Inventory%20Analysis-blue)
+
+---
 
 ## 📝 Overview
 This project presents an Inventory Management Dashboard built using Microsoft Excel.  
@@ -64,5 +69,10 @@ This project addresses these issues by creating a centralized dashboard that sim
 ---
 
 ## 📸 Dashboard Preview
+<img width="905" height="411" alt="Inventory dashboard" src="https://github.com/user-attachments/assets/9b4d5107-103c-49a5-a43d-80220abfc855" />
 
-![Inventory Dash
+
+
+
+
+
