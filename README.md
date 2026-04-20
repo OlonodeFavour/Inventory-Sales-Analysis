@@ -20,7 +20,10 @@ This project addresses these issues by creating a centralized dashboard that sim
 
 ---
 
-##   Tool Used
+## 🛠️ Tools Used
+- **Microsoft Excel**
+
+---
 
 ## ⚙️ Methodology
 - Collected inventory dataset containing product, sales, cost, and location data  
